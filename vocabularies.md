@@ -206,7 +206,7 @@ group: "navigation"
   <h5><b>Documents</b></h5>
     <a href="Data/cf-standard-names/docs/guidelines.html">Guidelines</a> for Construction of CF Standard Names<br>
     List of<a href="Data/cf-standard-names/docs/standard-name-contributors.html"> contributors</a> to CF Standard Names<br>
-    [Rules][vocabrules] for making changes to the CF vocabularies
+    <a href="standard-name-rules.md"> Rules</a> for making changes to the CF vocabularies<br>
 
   <h5><b>Discussion</b></h5>
 
@@ -259,4 +259,5 @@ group: "navigation"
 
 </p>  
 
+[rules]: rules.md
 [vocabrules]: https://cfconventions.org/standard_name_rules.html
